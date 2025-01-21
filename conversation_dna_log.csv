@@ -1,0 +1,569 @@
+Sentence,Word,Word Sequence,Hash
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",raven,"[18, 1, 22, 5, 14]",d4d74b1b7bb99b64e0ac578de7303ccc
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",perched,"[16, 5, 18, 3, 8, 5, 4]",504ec9172c7b26a99031f5999556aeb1
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.","typewriter,","[20, 25, 16, 5, 23, 18, 9, 20, 5, 18]",d41ff915966d90f81704027afee22d72
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",tapping,"[20, 1, 16, 16, 9, 14, 7]",3b4924f70cb378cb38dbe863f0f989e1
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",keys,"[11, 5, 25, 19]",c2c86d24c610de1e3363bf9e2175127a
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",as,"[1, 19]",b6c966209aefddbbb416592d199fe7b6
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",had,"[8, 1, 4]",5463bd024e7bf2dfd97d9449118178f5
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",story,"[19, 20, 15, 18, 25]",5d6f40b799fbd0b96942985c62191ade
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The raven perched on the typewriter, tapping the keys as though it had a story to tell.",tell.,"[20, 5, 12, 12]",5481adbb4ac2f231df87572e28557127
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",deep,"[4, 5, 5, 16]",7179d344f6e42ffe1c7748630fb43d2c
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",beneath,"[2, 5, 14, 5, 1, 20, 8]",e51f132d79f900605a2f57afffc33340
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.","ocean,","[15, 3, 5, 1, 14]",71203303ca77b70a7118b80b519af138
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",glowing,"[7, 12, 15, 23, 9, 14, 7]",f89f64d9208201ec14ccf134907f377a
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",jellyfish,"[10, 5, 12, 12, 25, 6, 9, 19, 8]",a8cd3798f41661c6f4d61d9c8e585f7a
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",led,"[12, 5, 4]",3cf521831b991c1a9f8c56ed16df622d
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",submarine,"[19, 21, 2, 13, 1, 18, 9, 14, 5]",8501c8245780406f18cbfb02689a3c83
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",through,"[20, 8, 18, 15, 21, 7, 8]",f0b64b646080723dbac097694260a829
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",labyrinth,"[12, 1, 2, 25, 18, 9, 14, 20, 8]",9284c1e1fe6b9978224596f7bfaf9531
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"Deep beneath the ocean, a glowing jellyfish led the submarine through a labyrinth of coral.",coral.,"[3, 15, 18, 1, 12]",0d07340ef9ef26ac20d451afc2e0264d
+The vending machine dispensed a gold coin instead of the usual soda.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The vending machine dispensed a gold coin instead of the usual soda.,vending,"[22, 5, 14, 4, 9, 14, 7]",f3e59ad46007301cfc62c8c1347bab6e
+The vending machine dispensed a gold coin instead of the usual soda.,machine,"[13, 1, 3, 8, 9, 14, 5]",aec9a6b8bef696e45b029bed51f81568
+The vending machine dispensed a gold coin instead of the usual soda.,dispensed,"[4, 9, 19, 16, 5, 14, 19, 5, 4]",dd5eb3ffb4b5d90336e95ce794366537
+The vending machine dispensed a gold coin instead of the usual soda.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+The vending machine dispensed a gold coin instead of the usual soda.,gold,"[7, 15, 12, 4]",694fffd11c635d4603d476145b3100dc
+The vending machine dispensed a gold coin instead of the usual soda.,coin,"[3, 15, 9, 14]",77f08ddc7df809243590baed86148947
+The vending machine dispensed a gold coin instead of the usual soda.,instead,"[9, 14, 19, 20, 5, 1, 4]",5391b379f6ebd0683e0c560b2c8677f3
+The vending machine dispensed a gold coin instead of the usual soda.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+The vending machine dispensed a gold coin instead of the usual soda.,usual,"[21, 19, 21, 1, 12]",386f161ff4ceb798a3538966aa8e3f16
+The vending machine dispensed a gold coin instead of the usual soda.,soda.,"[19, 15, 4, 1]",6dd6ccf5d0f8fb7f123a469e05b5a4d3
+"On Mars, the first sunrise looked nothing like anyone had imagined.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"On Mars, the first sunrise looked nothing like anyone had imagined.","mars,","[13, 1, 18, 19]",1084fea66c1daf5ff42902e0e4b2aeb5
+"On Mars, the first sunrise looked nothing like anyone had imagined.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"On Mars, the first sunrise looked nothing like anyone had imagined.",first,"[6, 9, 18, 19, 20]",fed0780525e9b1f8345d7b7727b8ab8d
+"On Mars, the first sunrise looked nothing like anyone had imagined.",sunrise,"[19, 21, 14, 18, 9, 19, 5]",3396dfdd4d330aa45b243339104f1f77
+"On Mars, the first sunrise looked nothing like anyone had imagined.",looked,"[12, 15, 15, 11, 5, 4]",cbedc3e051976daa2b43c030f3180920
+"On Mars, the first sunrise looked nothing like anyone had imagined.",nothing,"[14, 15, 20, 8, 9, 14, 7]",7acc03d14c6b3fe56941b46cc40f50d1
+"On Mars, the first sunrise looked nothing like anyone had imagined.",like,"[12, 9, 11, 5]",a825154e572f3141e03ac237786a7d9a
+"On Mars, the first sunrise looked nothing like anyone had imagined.",anyone,"[1, 14, 25, 15, 14, 5]",478b3268c50e08081f3dca75b9599bac
+"On Mars, the first sunrise looked nothing like anyone had imagined.",had,"[8, 1, 4]",5463bd024e7bf2dfd97d9449118178f5
+"On Mars, the first sunrise looked nothing like anyone had imagined.",imagined.,"[9, 13, 1, 7, 9, 14, 5, 4]",83cacc64446cbbec77e74591120a226d
+The chessboard rearranged itself every time someone looked away.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The chessboard rearranged itself every time someone looked away.,chessboard,"[3, 8, 5, 19, 19, 2, 15, 1, 18, 4]",705d177737f1f94de0aa6d3179a48cff
+The chessboard rearranged itself every time someone looked away.,rearranged,"[18, 5, 1, 18, 18, 1, 14, 7, 5, 4]",9fd4fe927f06fa0d189ffbbff147d4f4
+The chessboard rearranged itself every time someone looked away.,itself,"[9, 20, 19, 5, 12, 6]",9ed4da72f83bb6aad37d119e5facf600
+The chessboard rearranged itself every time someone looked away.,every,"[5, 22, 5, 18, 25]",d1efa70d31bb28c545ac33ecbbe48f09
+The chessboard rearranged itself every time someone looked away.,time,"[20, 9, 13, 5]",e2b55b9a014551e2ef7cc8f8a44d6bf4
+The chessboard rearranged itself every time someone looked away.,someone,"[19, 15, 13, 5, 15, 14, 5]",e5580a1efdf107601316c4a6115d90af
+The chessboard rearranged itself every time someone looked away.,looked,"[12, 15, 15, 11, 5, 4]",cbedc3e051976daa2b43c030f3180920
+The chessboard rearranged itself every time someone looked away.,away.,"[1, 23, 1, 25]",3e1fad3500b41f4ad1970fb07dd9f987
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",single,"[19, 9, 14, 7, 12, 5]",3eed3d20242dace842fb4afda475dfeb
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",snowflake,"[19, 14, 15, 23, 6, 12, 1, 11, 5]",c13a61c10bc93d4d1f7a09e0b285bf6a
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",landed,"[12, 1, 14, 4, 5, 4]",ca926341d88493295be62d70d0f9420f
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",dragon’s,"[4, 18, 1, 7, 15, 14, 19]",aeced33b88c377599bb0340c65ee4e12
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.","nose,","[14, 15, 19, 5]",3f2639bfb18f552a070ce5f46c6b8058
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",making,"[13, 1, 11, 9, 14, 7]",2f60db8806563fc675efa5977a2c2daa
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",sneeze,"[19, 14, 5, 5, 26, 5]",07d6d66687e276c5680a80c447515455
+"A single snowflake landed on the dragon’s nose, making it sneeze flames.",flames.,"[6, 12, 1, 13, 5, 19]",99eefba527ccc149dd7a47136ec5c02c
+"The library was silent, except for the faint sound of books whispering to each other.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The library was silent, except for the faint sound of books whispering to each other.",library,"[12, 9, 2, 18, 1, 18, 25]",9178df0107e64b9f4aecd145036f8c4d
+"The library was silent, except for the faint sound of books whispering to each other.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"The library was silent, except for the faint sound of books whispering to each other.","silent,","[19, 9, 12, 5, 14, 20]",b67f4fa36909a208781cbbd413b1724e
+"The library was silent, except for the faint sound of books whispering to each other.",except,"[5, 24, 3, 5, 16, 20]",91dde8364f5ae45de537687984f155c5
+"The library was silent, except for the faint sound of books whispering to each other.",for,"[6, 15, 18]",edda0b599d6407e6f939073c09b5a7c5
+"The library was silent, except for the faint sound of books whispering to each other.",faint,"[6, 1, 9, 14, 20]",1212c36c471768c0ae072a484d8105c7
+"The library was silent, except for the faint sound of books whispering to each other.",sound,"[19, 15, 21, 14, 4]",688a413c09069396245d6d5e9bb4dc08
+"The library was silent, except for the faint sound of books whispering to each other.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"The library was silent, except for the faint sound of books whispering to each other.",books,"[2, 15, 15, 11, 19]",3a8697a91188eab92383cc7846c5700a
+"The library was silent, except for the faint sound of books whispering to each other.",whispering,"[23, 8, 9, 19, 16, 5, 18, 9, 14, 7]",b3830c61b464c4a2c48539d34c4fb504
+"The library was silent, except for the faint sound of books whispering to each other.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The library was silent, except for the faint sound of books whispering to each other.",each,"[5, 1, 3, 8]",886e575c852405db566284987450e35c
+"The library was silent, except for the faint sound of books whispering to each other.",other.,"[15, 20, 8, 5, 18]",057e2036b8e0288f15bfd84f189b18a1
+"A train thundered past, carrying passengers who seemed to flicker like old film.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A train thundered past, carrying passengers who seemed to flicker like old film.",train,"[20, 18, 1, 9, 14]",454db5b11e7941045d89319e536dc8bb
+"A train thundered past, carrying passengers who seemed to flicker like old film.",thundered,"[20, 8, 21, 14, 4, 5, 18, 5, 4]",03d34929a3d18e6fba4b52ca22341326
+"A train thundered past, carrying passengers who seemed to flicker like old film.","past,","[16, 1, 19, 20]",b1c2fdc66655dc3d8e52818ffd9cd0dd
+"A train thundered past, carrying passengers who seemed to flicker like old film.",carrying,"[3, 1, 18, 18, 25, 9, 14, 7]",8dc90531bc717a34ca2befb88b148eca
+"A train thundered past, carrying passengers who seemed to flicker like old film.",passengers,"[16, 1, 19, 19, 5, 14, 7, 5, 18, 19]",990bd5081cea2be29eb64aab4c76bf4c
+"A train thundered past, carrying passengers who seemed to flicker like old film.",who,"[23, 8, 15]",9826bdda99a01fbd7d920f99261a39d0
+"A train thundered past, carrying passengers who seemed to flicker like old film.",seemed,"[19, 5, 5, 13, 5, 4]",07f3b4e17b7916ca9b977130565c6a2a
+"A train thundered past, carrying passengers who seemed to flicker like old film.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"A train thundered past, carrying passengers who seemed to flicker like old film.",flicker,"[6, 12, 9, 3, 11, 5, 18]",cb083aea83dbf371dfea0583e1ea66e3
+"A train thundered past, carrying passengers who seemed to flicker like old film.",like,"[12, 9, 11, 5]",a825154e572f3141e03ac237786a7d9a
+"A train thundered past, carrying passengers who seemed to flicker like old film.",old,"[15, 12, 4]",fd5d05d249c43115f2e53abe61ccb452
+"A train thundered past, carrying passengers who seemed to flicker like old film.",film.,"[6, 9, 12, 13]",564a1cff11cf6bd017f3d1debdddbb46
+"The attic creaked, but the rocking chair rocked on its own.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The attic creaked, but the rocking chair rocked on its own.",attic,"[1, 20, 20, 9, 3]",906fc9be20c4a062773b2e727c7c640d
+"The attic creaked, but the rocking chair rocked on its own.","creaked,","[3, 18, 5, 1, 11, 5, 4]",d3490a9189d729868e0728de62a6c674
+"The attic creaked, but the rocking chair rocked on its own.",but,"[2, 21, 20]",807988f118aee53cf151440c5261f4b4
+"The attic creaked, but the rocking chair rocked on its own.",rocking,"[18, 15, 3, 11, 9, 14, 7]",79d389838a279530b41b0e1b1487faae
+"The attic creaked, but the rocking chair rocked on its own.",chair,"[3, 8, 1, 9, 18]",e0325dde0810a8b73a00856c3a915e7f
+"The attic creaked, but the rocking chair rocked on its own.",rocked,"[18, 15, 3, 11, 5, 4]",e8756cab49a2e0c9a92668de5b4aafc7
+"The attic creaked, but the rocking chair rocked on its own.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"The attic creaked, but the rocking chair rocked on its own.",its,"[9, 20, 19]",52d9b0c30aad1c0331dbc44bb37d3b97
+"The attic creaked, but the rocking chair rocked on its own.",own.,"[15, 23, 14]",ad6c0892099ccfe111dd41881bf56e25
+A paper airplane soared into the sky and never came back down.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A paper airplane soared into the sky and never came back down.,paper,"[16, 1, 16, 5, 18]",a471e67bb6e1681033cbf28e6b406c3a
+A paper airplane soared into the sky and never came back down.,airplane,"[1, 9, 18, 16, 12, 1, 14, 5]",4c1db065f3ddebea11dc351591a8cd81
+A paper airplane soared into the sky and never came back down.,soared,"[19, 15, 1, 18, 5, 4]",283c60ea121ae93ab9c69ab279c2f7f8
+A paper airplane soared into the sky and never came back down.,into,"[9, 14, 20, 15]",a6a358a07ea01f3446d29f1c16408087
+A paper airplane soared into the sky and never came back down.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A paper airplane soared into the sky and never came back down.,sky,"[19, 11, 25]",37e1c18ce0ed8df9271c24ab85593e52
+A paper airplane soared into the sky and never came back down.,and,"[1, 14, 4]",941895025925d952274589a70ecc888a
+A paper airplane soared into the sky and never came back down.,never,"[14, 5, 22, 5, 18]",1840fb3f7b4da1965aa75727c5b0c5cb
+A paper airplane soared into the sky and never came back down.,came,"[3, 1, 13, 5]",3518e60331ce59c7d59558d77b1c0824
+A paper airplane soared into the sky and never came back down.,back,"[2, 1, 3, 11]",4ae7d7bcad7533f25ba0f1010021f633
+A paper airplane soared into the sky and never came back down.,down.,"[4, 15, 23, 14]",307e090427e617496d267a14918ef14f
+The moon reflected the image of an entirely different planet that night.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The moon reflected the image of an entirely different planet that night.,moon,"[13, 15, 15, 14]",f5c495d20dc2a7550c2ce354abf9fac7
+The moon reflected the image of an entirely different planet that night.,reflected,"[18, 5, 6, 12, 5, 3, 20, 5, 4]",e35e06d6d4765bdc10cbb2e0bbcdc232
+The moon reflected the image of an entirely different planet that night.,image,"[9, 13, 1, 7, 5]",6895e65edea2976ca7d68bf75fc6d06b
+The moon reflected the image of an entirely different planet that night.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+The moon reflected the image of an entirely different planet that night.,an,"[1, 14]",c96e299b7d0fcbe6c3e5b1d786f6d72d
+The moon reflected the image of an entirely different planet that night.,entirely,"[5, 14, 20, 9, 18, 5, 12, 25]",721b1043f5fc872d9fd800d3ab8f48c4
+The moon reflected the image of an entirely different planet that night.,different,"[4, 9, 6, 6, 5, 18, 5, 14, 20]",f368226e1730ae4ad28746091ca33ba4
+The moon reflected the image of an entirely different planet that night.,planet,"[16, 12, 1, 14, 5, 20]",84f443a14a41c64ac5b43ad9e79b54b0
+The moon reflected the image of an entirely different planet that night.,that,"[20, 8, 1, 20]",50e7911357fad58e8f3a30165ab9d112
+The moon reflected the image of an entirely different planet that night.,night.,"[14, 9, 7, 8, 20]",e6bb829c80eb4644a98cac750f71a0b3
+"An old radio crackled to life, playing a song that had been forgotten for decades.",an,"[1, 14]",c96e299b7d0fcbe6c3e5b1d786f6d72d
+"An old radio crackled to life, playing a song that had been forgotten for decades.",old,"[15, 12, 4]",fd5d05d249c43115f2e53abe61ccb452
+"An old radio crackled to life, playing a song that had been forgotten for decades.",radio,"[18, 1, 4, 9, 15]",976c083e774d01c6cd67c1737a982239
+"An old radio crackled to life, playing a song that had been forgotten for decades.",crackled,"[3, 18, 1, 3, 11, 12, 5, 4]",81c66c135355437275ead2b61fb128aa
+"An old radio crackled to life, playing a song that had been forgotten for decades.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"An old radio crackled to life, playing a song that had been forgotten for decades.","life,","[12, 9, 6, 5]",a980e164b726adccb2e8f4276f972d38
+"An old radio crackled to life, playing a song that had been forgotten for decades.",playing,"[16, 12, 1, 25, 9, 14, 7]",cff51423250ef18d8fdd228bffabe1e5
+"An old radio crackled to life, playing a song that had been forgotten for decades.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"An old radio crackled to life, playing a song that had been forgotten for decades.",song,"[19, 15, 14, 7]",17730b8572bc50ca824ca823dd4dc5fb
+"An old radio crackled to life, playing a song that had been forgotten for decades.",that,"[20, 8, 1, 20]",50e7911357fad58e8f3a30165ab9d112
+"An old radio crackled to life, playing a song that had been forgotten for decades.",had,"[8, 1, 4]",5463bd024e7bf2dfd97d9449118178f5
+"An old radio crackled to life, playing a song that had been forgotten for decades.",been,"[2, 5, 5, 14]",b891a4a591e4f8e3568e36fb5c660592
+"An old radio crackled to life, playing a song that had been forgotten for decades.",forgotten,"[6, 15, 18, 7, 15, 20, 20, 5, 14]",63abcf086288e925bc734e3e5362302d
+"An old radio crackled to life, playing a song that had been forgotten for decades.",for,"[6, 15, 18]",edda0b599d6407e6f939073c09b5a7c5
+"An old radio crackled to life, playing a song that had been forgotten for decades.",decades.,"[4, 5, 3, 1, 4, 5, 19]",15b18e23259ec8d6dc0e79da8d1eb181
+"The campfire sparked, and the flames danced in the shape of wolves.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The campfire sparked, and the flames danced in the shape of wolves.",campfire,"[3, 1, 13, 16, 6, 9, 18, 5]",2e9407d5c20169f830b5e3b492e17298
+"The campfire sparked, and the flames danced in the shape of wolves.","sparked,","[19, 16, 1, 18, 11, 5, 4]",39140b70671b59bde56d1141db08c8f6
+"The campfire sparked, and the flames danced in the shape of wolves.",and,"[1, 14, 4]",941895025925d952274589a70ecc888a
+"The campfire sparked, and the flames danced in the shape of wolves.",flames,"[6, 12, 1, 13, 5, 19]",99eefba527ccc149dd7a47136ec5c02c
+"The campfire sparked, and the flames danced in the shape of wolves.",danced,"[4, 1, 14, 3, 5, 4]",ea6775c766e4e6a1b982db393bb47bc8
+"The campfire sparked, and the flames danced in the shape of wolves.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"The campfire sparked, and the flames danced in the shape of wolves.",shape,"[19, 8, 1, 16, 5]",0e38a26929e19017ae9a2afcdbccb7ca
+"The campfire sparked, and the flames danced in the shape of wolves.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"The campfire sparked, and the flames danced in the shape of wolves.",wolves.,"[23, 15, 12, 22, 5, 19]",a9ea18d444d22003fb064d902369ea96
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",map,"[13, 1, 16]",aab4f5c9f798063dbfacf3496c9bafad
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",appeared,"[1, 16, 16, 5, 1, 18, 5, 4]",51c53edb34ab7c15ff7051c6242518a6
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A map appeared on the wall, marking a path that didn’t exist yesterday.","wall,","[23, 1, 12, 12]",cb5c506d19225bc695955eefa7c04bc6
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",marking,"[13, 1, 18, 11, 9, 14, 7]",2f4dc289ea625bc8284ad30feb9784e6
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",path,"[16, 1, 20, 8]",8366cddcad2f6674d4f037f44bdc56b0
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",that,"[20, 8, 1, 20]",50e7911357fad58e8f3a30165ab9d112
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",didn’t,"[4, 9, 4, 14, 20]",7f00e360e122354914721987ec7a5aed
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",exist,"[5, 24, 9, 19, 20]",555883f92811a4fcfa3f8036cad8d1ef
+"A map appeared on the wall, marking a path that didn’t exist yesterday.",yesterday.,"[25, 5, 19, 20, 5, 18, 4, 1, 25]",09f69f97375121b6cc91e7cccf69c232
+"The mirror showed an empty room, though the boy stood right in front of it.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The mirror showed an empty room, though the boy stood right in front of it.",mirror,"[13, 9, 18, 18, 15, 18]",0d077a0f87dc81836aa163560b45eb77
+"The mirror showed an empty room, though the boy stood right in front of it.",showed,"[19, 8, 15, 23, 5, 4]",6e99a729d8fd6da01eb4a43745b6ebb1
+"The mirror showed an empty room, though the boy stood right in front of it.",an,"[1, 14]",c96e299b7d0fcbe6c3e5b1d786f6d72d
+"The mirror showed an empty room, though the boy stood right in front of it.",empty,"[5, 13, 16, 20, 25]",3a96870bdb51efa1d5c29db16fceaf4d
+"The mirror showed an empty room, though the boy stood right in front of it.","room,","[18, 15, 15, 13]",562626e9801b34368b582b4e50e09650
+"The mirror showed an empty room, though the boy stood right in front of it.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The mirror showed an empty room, though the boy stood right in front of it.",boy,"[2, 15, 25]",fdad4a80bb28cf1254b3f507c3f14d2c
+"The mirror showed an empty room, though the boy stood right in front of it.",stood,"[19, 20, 15, 15, 4]",9063546cff85da838a4d96e6d00a615f
+"The mirror showed an empty room, though the boy stood right in front of it.",right,"[18, 9, 7, 8, 20]",f10f1601f3e42b225d3abd3c66796146
+"The mirror showed an empty room, though the boy stood right in front of it.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"The mirror showed an empty room, though the boy stood right in front of it.",front,"[6, 18, 15, 14, 20]",c58b172da452a15d5086f38747cbbea0
+"The mirror showed an empty room, though the boy stood right in front of it.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"The mirror showed an empty room, though the boy stood right in front of it.",it.,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+A trail of glowing mushrooms lit the way through the dense forest.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A trail of glowing mushrooms lit the way through the dense forest.,trail,"[20, 18, 1, 9, 12]",566f603df92303e4c23e6812ccc1d371
+A trail of glowing mushrooms lit the way through the dense forest.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+A trail of glowing mushrooms lit the way through the dense forest.,glowing,"[7, 12, 15, 23, 9, 14, 7]",f89f64d9208201ec14ccf134907f377a
+A trail of glowing mushrooms lit the way through the dense forest.,mushrooms,"[13, 21, 19, 8, 18, 15, 15, 13, 19]",eda050a19caae10cb84ebe51d331cdb4
+A trail of glowing mushrooms lit the way through the dense forest.,lit,"[12, 9, 20]",7e7f765fa344071df13d78e3ed610669
+A trail of glowing mushrooms lit the way through the dense forest.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A trail of glowing mushrooms lit the way through the dense forest.,way,"[23, 1, 25]",ecc43e826bd5f08aa1b75e766ec18747
+A trail of glowing mushrooms lit the way through the dense forest.,through,"[20, 8, 18, 15, 21, 7, 8]",f0b64b646080723dbac097694260a829
+A trail of glowing mushrooms lit the way through the dense forest.,dense,"[4, 5, 14, 19, 5]",db18eb4dfe6e48d2ab14dfeb41b9fbfd
+A trail of glowing mushrooms lit the way through the dense forest.,forest.,"[6, 15, 18, 5, 19, 20]",835c9213628b2b7678851100c3437112
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",bakery,"[2, 1, 11, 5, 18, 25]",1155713a3c475baed5c149c758085429
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",smelled,"[19, 13, 5, 12, 12, 5, 4]",09a0ae1954d0f8c364f432e185381c7d
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",fresh,"[6, 18, 5, 19, 8]",164faa9982565a2eabe2102db7a5c612
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",bread,"[2, 18, 5, 1, 4]",59963da00ebbe90bc56cb1a30e65328b
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",and,"[1, 14, 4]",941895025925d952274589a70ecc888a
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.","cinnamon,","[3, 9, 14, 14, 1, 13, 15, 14]",4a9728276a89609050b79823362ef38d
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",but,"[2, 21, 20]",807988f118aee53cf151440c5261f4b4
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"The bakery smelled of fresh bread and cinnamon, but no one was inside.",inside.,"[9, 14, 19, 9, 4, 5]",b4f3a21bf5268eca56670cbfc0bbfb92
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",meteor,"[13, 5, 20, 5, 15, 18]",64080315eb140ecb6bcdf9e78d804048
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",fell,"[6, 5, 12, 12]",d0b72ecbd5dd8c84849c1cf36f51d8a6
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.","earth,","[5, 1, 18, 20, 8]",4a346c1ad51f3d1cdcb2409f093229aa
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",bouncing,"[2, 15, 21, 14, 3, 9, 14, 7]",4cf9ee9ba02b486acdc4cea46d828acc
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",harmlessly,"[8, 1, 18, 13, 12, 5, 19, 19, 12, 25]",f793afb868c982c7db24f5604b95d11d
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",like,"[12, 9, 11, 5]",a825154e572f3141e03ac237786a7d9a
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",beach,"[2, 5, 1, 3, 8]",dacc7f5d99358861eb7c4a2e8ee3add1
+"A meteor fell to Earth, bouncing harmlessly like a beach ball.",ball.,"[2, 1, 12, 12]",89077edec42bea21ae805aa92807d352
+"The old clock chimed thirteen times, even though it had no hands.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The old clock chimed thirteen times, even though it had no hands.",old,"[15, 12, 4]",fd5d05d249c43115f2e53abe61ccb452
+"The old clock chimed thirteen times, even though it had no hands.",clock,"[3, 12, 15, 3, 11]",22045d8211a3467ae2f4a9a171dbb56b
+"The old clock chimed thirteen times, even though it had no hands.",chimed,"[3, 8, 9, 13, 5, 4]",67c13ff4886597df04c7c48e765953c5
+"The old clock chimed thirteen times, even though it had no hands.",thirteen,"[20, 8, 9, 18, 20, 5, 5, 14]",dbc1ef3b96121ef367cabc1c66e1933a
+"The old clock chimed thirteen times, even though it had no hands.","times,","[20, 9, 13, 5, 19]",00d86656d6f1482c8d2dfb176c7f9a59
+"The old clock chimed thirteen times, even though it had no hands.",even,"[5, 22, 5, 14]",86b176375a4e566865f4e437e5c78df0
+"The old clock chimed thirteen times, even though it had no hands.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The old clock chimed thirteen times, even though it had no hands.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The old clock chimed thirteen times, even though it had no hands.",had,"[8, 1, 4]",5463bd024e7bf2dfd97d9449118178f5
+"The old clock chimed thirteen times, even though it had no hands.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"The old clock chimed thirteen times, even though it had no hands.",hands.,"[8, 1, 14, 4, 19]",b8bde7546911dc3746595ea5f2fa147f
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",butterfly,"[2, 21, 20, 20, 5, 18, 6, 12, 25]",2ee34daa888a0e80856a0b7d3b4dd1d0
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",landed,"[12, 1, 14, 4, 5, 4]",ca926341d88493295be62d70d0f9420f
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",robot’s,"[18, 15, 2, 15, 20, 19]",b86c353afc2e6d38d64926cf77809547
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.","shoulder,","[19, 8, 15, 21, 12, 4, 5, 18]",7d4731632fb03e9a310024fbaf84077f
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",and,"[1, 14, 4]",941895025925d952274589a70ecc888a
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",smiled,"[19, 13, 9, 12, 5, 4]",9f09b135a5844e82ee6da66de522237f
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",for,"[6, 15, 18]",edda0b599d6407e6f939073c09b5a7c5
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",first,"[6, 9, 18, 19, 20]",fed0780525e9b1f8345d7b7727b8ab8d
+"A butterfly landed on the robot’s shoulder, and it smiled for the first time.",time.,"[20, 9, 13, 5]",e2b55b9a014551e2ef7cc8f8a44d6bf4
+The stars in the sky rearranged themselves to spell out a name.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The stars in the sky rearranged themselves to spell out a name.,stars,"[19, 20, 1, 18, 19]",b0e7d1bee03749e5ae84a1cd8b78b2bb
+The stars in the sky rearranged themselves to spell out a name.,in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+The stars in the sky rearranged themselves to spell out a name.,sky,"[19, 11, 25]",37e1c18ce0ed8df9271c24ab85593e52
+The stars in the sky rearranged themselves to spell out a name.,rearranged,"[18, 5, 1, 18, 18, 1, 14, 7, 5, 4]",9fd4fe927f06fa0d189ffbbff147d4f4
+The stars in the sky rearranged themselves to spell out a name.,themselves,"[20, 8, 5, 13, 19, 5, 12, 22, 5, 19]",708097a7e4f1a7df10a893013183f12b
+The stars in the sky rearranged themselves to spell out a name.,to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+The stars in the sky rearranged themselves to spell out a name.,spell,"[19, 16, 5, 12, 12]",86919c82e9d6aa9dd4dbc9ec16e8ec2f
+The stars in the sky rearranged themselves to spell out a name.,out,"[15, 21, 20]",158b9a5e18bef6170a77a19b760b041f
+The stars in the sky rearranged themselves to spell out a name.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+The stars in the sky rearranged themselves to spell out a name.,name.,"[14, 1, 13, 5]",802fe59f1717a5ba7e8a6d1358758bfe
+"A puddle in the street rippled, though there was no wind or rain.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A puddle in the street rippled, though there was no wind or rain.",puddle,"[16, 21, 4, 4, 12, 5]",f53e92ba95f4be09ed43fe849568944c
+"A puddle in the street rippled, though there was no wind or rain.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"A puddle in the street rippled, though there was no wind or rain.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A puddle in the street rippled, though there was no wind or rain.",street,"[19, 20, 18, 5, 5, 20]",1b8bb7a82a192e7962ce766e5fa2e251
+"A puddle in the street rippled, though there was no wind or rain.","rippled,","[18, 9, 16, 16, 12, 5, 4]",4b1768aaed63a13740f86691cdf9a42b
+"A puddle in the street rippled, though there was no wind or rain.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"A puddle in the street rippled, though there was no wind or rain.",there,"[20, 8, 5, 18, 5]",7bf33f311431bbab7201a3d924f57319
+"A puddle in the street rippled, though there was no wind or rain.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"A puddle in the street rippled, though there was no wind or rain.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"A puddle in the street rippled, though there was no wind or rain.",wind,"[23, 9, 14, 4]",c4a9bccd2509e105e9aec29e6d630333
+"A puddle in the street rippled, though there was no wind or rain.",or,"[15, 18]",f744d25916437cf92da434078d6ea331
+"A puddle in the street rippled, though there was no wind or rain.",rain.,"[18, 1, 9, 14]",38229c7c10ec2b9f4e7585ad5e84721e
+The piano in the empty hall began to play a soft lullaby.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The piano in the empty hall began to play a soft lullaby.,piano,"[16, 9, 1, 14, 15]",648f40e67b1a819a535401181cfd5af5
+The piano in the empty hall began to play a soft lullaby.,in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+The piano in the empty hall began to play a soft lullaby.,empty,"[5, 13, 16, 20, 25]",3a96870bdb51efa1d5c29db16fceaf4d
+The piano in the empty hall began to play a soft lullaby.,hall,"[8, 1, 12, 12]",1373cf71bbfc5bff014d8f44cc15bf6d
+The piano in the empty hall began to play a soft lullaby.,began,"[2, 5, 7, 1, 14]",e33d69106fb1a16024e1afa2f0cf8ffb
+The piano in the empty hall began to play a soft lullaby.,to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+The piano in the empty hall began to play a soft lullaby.,play,"[16, 12, 1, 25]",dfcbd6f4992a4d3278ef5969ab1f2825
+The piano in the empty hall began to play a soft lullaby.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+The piano in the empty hall began to play a soft lullaby.,soft,"[19, 15, 6, 20]",b19c43984811106b0ca50866b7fb88b8
+The piano in the empty hall began to play a soft lullaby.,lullaby.,"[12, 21, 12, 12, 1, 2, 25]",c02d62f111f8c52f5714df7b201adcb7
+The garden gnome seemed to wink as the child walked past.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The garden gnome seemed to wink as the child walked past.,garden,"[7, 1, 18, 4, 5, 14]",288666c33994e45e9485f49420694645
+The garden gnome seemed to wink as the child walked past.,gnome,"[7, 14, 15, 13, 5]",c3a81a956dcce8aabbdf28746f1948b1
+The garden gnome seemed to wink as the child walked past.,seemed,"[19, 5, 5, 13, 5, 4]",07f3b4e17b7916ca9b977130565c6a2a
+The garden gnome seemed to wink as the child walked past.,to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+The garden gnome seemed to wink as the child walked past.,wink,"[23, 9, 14, 11]",0aabe5caa059f53164b680d617ccbfc2
+The garden gnome seemed to wink as the child walked past.,as,"[1, 19]",b6c966209aefddbbb416592d199fe7b6
+The garden gnome seemed to wink as the child walked past.,child,"[3, 8, 9, 12, 4]",e5a908221850b2cda6ca3a4883ca9ce3
+The garden gnome seemed to wink as the child walked past.,walked,"[23, 1, 12, 11, 5, 4]",e0c4e4fa2f9ae50c8326a1be65be41fc
+The garden gnome seemed to wink as the child walked past.,past.,"[16, 1, 19, 20]",b1c2fdc66655dc3d8e52818ffd9cd0dd
+A painting on the wall changed slightly every time someone blinked.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A painting on the wall changed slightly every time someone blinked.,painting,"[16, 1, 9, 14, 20, 9, 14, 7]",08282fc2b915a6e3dd0405c24c9c74e9
+A painting on the wall changed slightly every time someone blinked.,on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+A painting on the wall changed slightly every time someone blinked.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A painting on the wall changed slightly every time someone blinked.,wall,"[23, 1, 12, 12]",cb5c506d19225bc695955eefa7c04bc6
+A painting on the wall changed slightly every time someone blinked.,changed,"[3, 8, 1, 14, 7, 5, 4]",75ab4e21b03a97fa8fe0426538e26a22
+A painting on the wall changed slightly every time someone blinked.,slightly,"[19, 12, 9, 7, 8, 20, 12, 25]",aacb876cab50cfd8a9c61151c2169e23
+A painting on the wall changed slightly every time someone blinked.,every,"[5, 22, 5, 18, 25]",d1efa70d31bb28c545ac33ecbbe48f09
+A painting on the wall changed slightly every time someone blinked.,time,"[20, 9, 13, 5]",e2b55b9a014551e2ef7cc8f8a44d6bf4
+A painting on the wall changed slightly every time someone blinked.,someone,"[19, 15, 13, 5, 15, 14, 5]",e5580a1efdf107601316c4a6115d90af
+A painting on the wall changed slightly every time someone blinked.,blinked.,"[2, 12, 9, 14, 11, 5, 4]",5ed4e5ba4fcfcc91c54e95cffa43ffee
+"The suitcase felt heavier, though no one had added anything to it.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The suitcase felt heavier, though no one had added anything to it.",suitcase,"[19, 21, 9, 20, 3, 1, 19, 5]",afdb26642426197d190edbb628ffeb87
+"The suitcase felt heavier, though no one had added anything to it.",felt,"[6, 5, 12, 20]",ca944881e4c4a8d5054bcc3508579620
+"The suitcase felt heavier, though no one had added anything to it.","heavier,","[8, 5, 1, 22, 9, 5, 18]",6431fd8e1f8d8e6ad438ff371e124ac6
+"The suitcase felt heavier, though no one had added anything to it.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The suitcase felt heavier, though no one had added anything to it.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"The suitcase felt heavier, though no one had added anything to it.",one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The suitcase felt heavier, though no one had added anything to it.",had,"[8, 1, 4]",5463bd024e7bf2dfd97d9449118178f5
+"The suitcase felt heavier, though no one had added anything to it.",added,"[1, 4, 4, 5, 4]",8aae46501ab89a4117471d2636c8a8d7
+"The suitcase felt heavier, though no one had added anything to it.",anything,"[1, 14, 25, 20, 8, 9, 14, 7]",ed33fffaf962c796f6e1ea2b246751e2
+"The suitcase felt heavier, though no one had added anything to it.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The suitcase felt heavier, though no one had added anything to it.",it.,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The sun rose twice that morning, confusing everyone in the village.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The sun rose twice that morning, confusing everyone in the village.",sun,"[19, 21, 14]",7dee0197414ca7914629edc498530c52
+"The sun rose twice that morning, confusing everyone in the village.",rose,"[18, 15, 19, 5]",4ec6481cee8198fb08e2ec1608d77300
+"The sun rose twice that morning, confusing everyone in the village.",twice,"[20, 23, 9, 3, 5]",e192452104d05c260f6b4f6fcb81346e
+"The sun rose twice that morning, confusing everyone in the village.",that,"[20, 8, 1, 20]",50e7911357fad58e8f3a30165ab9d112
+"The sun rose twice that morning, confusing everyone in the village.","morning,","[13, 15, 18, 14, 9, 14, 7]",3beeb527148def3ceb4ad9aa755fb087
+"The sun rose twice that morning, confusing everyone in the village.",confusing,"[3, 15, 14, 6, 21, 19, 9, 14, 7]",daf878f0f5c4cc0de754b2971e9749c4
+"The sun rose twice that morning, confusing everyone in the village.",everyone,"[5, 22, 5, 18, 25, 15, 14, 5]",b94360f33d885767df768621f9aa6042
+"The sun rose twice that morning, confusing everyone in the village.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"The sun rose twice that morning, confusing everyone in the village.",village.,"[22, 9, 12, 12, 1, 7, 5]",51fd81368dd93debb5d4ea5f4691b932
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",deer,"[4, 5, 5, 18]",f2aa8cea0a46f40c5e1d595348538b66
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",stood,"[19, 20, 15, 15, 4]",9063546cff85da838a4d96e6d00a615f
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",middle,"[13, 9, 4, 4, 12, 5]",503cbc5b201f47cfec44e1af91026dfd
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"A deer stood in the middle of the road, glowing faintly in the moonlight.","road,","[18, 15, 1, 4]",4ff1415646621a100222eaeff70ab4cf
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",glowing,"[7, 12, 15, 23, 9, 14, 7]",f89f64d9208201ec14ccf134907f377a
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",faintly,"[6, 1, 9, 14, 20, 12, 25]",8522eb6089b6c8937aa4c8c01709f96f
+"A deer stood in the middle of the road, glowing faintly in the moonlight.",moonlight.,"[13, 15, 15, 14, 12, 9, 7, 8, 20]",edd0429144530c665302a656b15955d5
+"The fountain in the square started flowing with sparkling, golden water.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The fountain in the square started flowing with sparkling, golden water.",fountain,"[6, 15, 21, 14, 20, 1, 9, 14]",5eef670334c1932d0489d572010bc869
+"The fountain in the square started flowing with sparkling, golden water.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"The fountain in the square started flowing with sparkling, golden water.",square,"[19, 17, 21, 1, 18, 5]",07b0c828153e7697f03be5eb1d49e455
+"The fountain in the square started flowing with sparkling, golden water.",started,"[19, 20, 1, 18, 20, 5, 4]",4e8f7e365bc68c540b8e77b4244371d8
+"The fountain in the square started flowing with sparkling, golden water.",flowing,"[6, 12, 15, 23, 9, 14, 7]",1561c871e17df97c18c0faf2ccd5d3e0
+"The fountain in the square started flowing with sparkling, golden water.",with,"[23, 9, 20, 8]",86804592c4318cbbdda705318708b0a4
+"The fountain in the square started flowing with sparkling, golden water.","sparkling,","[19, 16, 1, 18, 11, 12, 9, 14, 7]",333c369f2a41a6be97dc1e88160e0484
+"The fountain in the square started flowing with sparkling, golden water.",golden,"[7, 15, 12, 4, 5, 14]",1892e8e1bf3d78c3b7f55f20bd6a167f
+"The fountain in the square started flowing with sparkling, golden water.",water.,"[23, 1, 20, 5, 18]",08d4124425a271ed5ff34458fc42f7fa
+"A shadow crossed the room, though there was nothing to cast it.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A shadow crossed the room, though there was nothing to cast it.",shadow,"[19, 8, 1, 4, 15, 23]",adead03ca394d443ff415fdd9266f6f0
+"A shadow crossed the room, though there was nothing to cast it.",crossed,"[3, 18, 15, 19, 19, 5, 4]",8db00c276e15f1778e0b5bc475f0194e
+"A shadow crossed the room, though there was nothing to cast it.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A shadow crossed the room, though there was nothing to cast it.","room,","[18, 15, 15, 13]",562626e9801b34368b582b4e50e09650
+"A shadow crossed the room, though there was nothing to cast it.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"A shadow crossed the room, though there was nothing to cast it.",there,"[20, 8, 5, 18, 5]",7bf33f311431bbab7201a3d924f57319
+"A shadow crossed the room, though there was nothing to cast it.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"A shadow crossed the room, though there was nothing to cast it.",nothing,"[14, 15, 20, 8, 9, 14, 7]",7acc03d14c6b3fe56941b46cc40f50d1
+"A shadow crossed the room, though there was nothing to cast it.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"A shadow crossed the room, though there was nothing to cast it.",cast,"[3, 1, 19, 20]",c34a48260547a062aede150eb8d35ef1
+"A shadow crossed the room, though there was nothing to cast it.",it.,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The wind carried the sound of laughter, though the field was empty.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The wind carried the sound of laughter, though the field was empty.",wind,"[23, 9, 14, 4]",c4a9bccd2509e105e9aec29e6d630333
+"The wind carried the sound of laughter, though the field was empty.",carried,"[3, 1, 18, 18, 9, 5, 4]",f6f24c2fabb1d4d39fb059313c85f56a
+"The wind carried the sound of laughter, though the field was empty.",sound,"[19, 15, 21, 14, 4]",688a413c09069396245d6d5e9bb4dc08
+"The wind carried the sound of laughter, though the field was empty.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"The wind carried the sound of laughter, though the field was empty.","laughter,","[12, 1, 21, 7, 8, 20, 5, 18]",64ea0973290a50069b90e94b66b54451
+"The wind carried the sound of laughter, though the field was empty.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The wind carried the sound of laughter, though the field was empty.",field,"[6, 9, 5, 12, 4]",dff89a816a314f466ddf3ead7f227ddf
+"The wind carried the sound of laughter, though the field was empty.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"The wind carried the sound of laughter, though the field was empty.",empty.,"[5, 13, 16, 20, 25]",3a96870bdb51efa1d5c29db16fceaf4d
+A glowing key appeared on the doorstep with no explanation.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A glowing key appeared on the doorstep with no explanation.,glowing,"[7, 12, 15, 23, 9, 14, 7]",f89f64d9208201ec14ccf134907f377a
+A glowing key appeared on the doorstep with no explanation.,key,"[11, 5, 25]",b014d7df959c3ee2c96174c9f74317c4
+A glowing key appeared on the doorstep with no explanation.,appeared,"[1, 16, 16, 5, 1, 18, 5, 4]",51c53edb34ab7c15ff7051c6242518a6
+A glowing key appeared on the doorstep with no explanation.,on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+A glowing key appeared on the doorstep with no explanation.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A glowing key appeared on the doorstep with no explanation.,doorstep,"[4, 15, 15, 18, 19, 20, 5, 16]",83683b20c844bfb3a142afad7380c35a
+A glowing key appeared on the doorstep with no explanation.,with,"[23, 9, 20, 8]",86804592c4318cbbdda705318708b0a4
+A glowing key appeared on the doorstep with no explanation.,no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+A glowing key appeared on the doorstep with no explanation.,explanation.,"[5, 24, 16, 12, 1, 14, 1, 20, 9, 15, 14]",edb8d83881a01e3d9ed4295d25954b4a
+"The ship’s compass spun wildly, pointing to the sky.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The ship’s compass spun wildly, pointing to the sky.",ship’s,"[19, 8, 9, 16, 19]",beb86f6c45a941f5b67494f2e909428b
+"The ship’s compass spun wildly, pointing to the sky.",compass,"[3, 15, 13, 16, 1, 19, 19]",276693e41f1f3ece770be6711c601559
+"The ship’s compass spun wildly, pointing to the sky.",spun,"[19, 16, 21, 14]",19be4605e2c4b9e38157c363e64cc0e6
+"The ship’s compass spun wildly, pointing to the sky.","wildly,","[23, 9, 12, 4, 12, 25]",207eb910e7ebc6536202c384f2e44a2a
+"The ship’s compass spun wildly, pointing to the sky.",pointing,"[16, 15, 9, 14, 20, 9, 14, 7]",9c191850e865a28df740eb95c55acaa8
+"The ship’s compass spun wildly, pointing to the sky.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The ship’s compass spun wildly, pointing to the sky.",sky.,"[19, 11, 25]",37e1c18ce0ed8df9271c24ab85593e52
+A glass of milk slid across the table without spilling a drop.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A glass of milk slid across the table without spilling a drop.,glass,"[7, 12, 1, 19, 19]",77d1dc49cd070925f447b5ea352352e1
+A glass of milk slid across the table without spilling a drop.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+A glass of milk slid across the table without spilling a drop.,milk,"[13, 9, 12, 11]",f9a93036f073841f6751c21cf93cc20f
+A glass of milk slid across the table without spilling a drop.,slid,"[19, 12, 9, 4]",5babc465871e1b6e69100d2e8c6a475f
+A glass of milk slid across the table without spilling a drop.,across,"[1, 3, 18, 15, 19, 19]",a3ee837cce0498ec280ae61e92dc1928
+A glass of milk slid across the table without spilling a drop.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A glass of milk slid across the table without spilling a drop.,table,"[20, 1, 2, 12, 5]",257a1c1e93bd0432aa2673aec287666b
+A glass of milk slid across the table without spilling a drop.,without,"[23, 9, 20, 8, 15, 21, 20]",d61a2b26960b7b88949e8acfde5d160c
+A glass of milk slid across the table without spilling a drop.,spilling,"[19, 16, 9, 12, 12, 9, 14, 7]",2b73cc9bca438df537d52fb7de10a218
+A glass of milk slid across the table without spilling a drop.,drop.,"[4, 18, 15, 16]",afaea89791f1260f5fb934040e72c902
+"The cat stared intently at a wall, as if it could see something no one else could.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The cat stared intently at a wall, as if it could see something no one else could.",cat,"[3, 1, 20]",b1bf2a64bf3a2cfca9817968db28152c
+"The cat stared intently at a wall, as if it could see something no one else could.",stared,"[19, 20, 1, 18, 5, 4]",6d2da66f160e8fba43afdb1031cd80d0
+"The cat stared intently at a wall, as if it could see something no one else could.",intently,"[9, 14, 20, 5, 14, 20, 12, 25]",9b4f15a9fafd976d2b928c2cb04a9f6b
+"The cat stared intently at a wall, as if it could see something no one else could.",at,"[1, 20]",012565dbbc52f089dd827d084728c0d8
+"The cat stared intently at a wall, as if it could see something no one else could.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"The cat stared intently at a wall, as if it could see something no one else could.","wall,","[23, 1, 12, 12]",cb5c506d19225bc695955eefa7c04bc6
+"The cat stared intently at a wall, as if it could see something no one else could.",as,"[1, 19]",b6c966209aefddbbb416592d199fe7b6
+"The cat stared intently at a wall, as if it could see something no one else could.",if,"[9, 6]",19d36bbad5524313e9fe9fd1d786c70c
+"The cat stared intently at a wall, as if it could see something no one else could.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The cat stared intently at a wall, as if it could see something no one else could.",could,"[3, 15, 21, 12, 4]",39d0ea64ee82d77361b29611295a30cd
+"The cat stared intently at a wall, as if it could see something no one else could.",see,"[19, 5, 5]",6e5a06e5f91eff59c146f389a9a6cec0
+"The cat stared intently at a wall, as if it could see something no one else could.",something,"[19, 15, 13, 5, 20, 8, 9, 14, 7]",9b989fcf2d6c7f29e562c71b12208f57
+"The cat stared intently at a wall, as if it could see something no one else could.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"The cat stared intently at a wall, as if it could see something no one else could.",one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The cat stared intently at a wall, as if it could see something no one else could.",else,"[5, 12, 19, 5]",a10f10377e07adb7454fa0a87a674176
+"The cat stared intently at a wall, as if it could see something no one else could.",could.,"[3, 15, 21, 12, 4]",39d0ea64ee82d77361b29611295a30cd
+The streetlights flickered in sync with the distant sound of footsteps.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The streetlights flickered in sync with the distant sound of footsteps.,streetlights,"[19, 20, 18, 5, 5, 20, 12, 9, 7, 8, 20, 19]",c3484153709d4c9e28b7b760cb39d06f
+The streetlights flickered in sync with the distant sound of footsteps.,flickered,"[6, 12, 9, 3, 11, 5, 18, 5, 4]",5482bf34b99472a88449f2ae3dd6b753
+The streetlights flickered in sync with the distant sound of footsteps.,in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+The streetlights flickered in sync with the distant sound of footsteps.,sync,"[19, 25, 14, 3]",90098d35e4eed2267c5e5949a3d2c4b9
+The streetlights flickered in sync with the distant sound of footsteps.,with,"[23, 9, 20, 8]",86804592c4318cbbdda705318708b0a4
+The streetlights flickered in sync with the distant sound of footsteps.,distant,"[4, 9, 19, 20, 1, 14, 20]",f7f51ad09442cc667752d229fdea7dbe
+The streetlights flickered in sync with the distant sound of footsteps.,sound,"[19, 15, 21, 14, 4]",688a413c09069396245d6d5e9bb4dc08
+The streetlights flickered in sync with the distant sound of footsteps.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+The streetlights flickered in sync with the distant sound of footsteps.,footsteps.,"[6, 15, 15, 20, 19, 20, 5, 16, 19]",d0a2546e34782eb7a15a8255f9eb11d0
+A child’s drawing on the fridge moved slightly when no one was looking.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A child’s drawing on the fridge moved slightly when no one was looking.,child’s,"[3, 8, 9, 12, 4, 19]",8b607701d8cc43dd8b7b55b68b540a7b
+A child’s drawing on the fridge moved slightly when no one was looking.,drawing,"[4, 18, 1, 23, 9, 14, 7]",fe9e8ace426ced7b7f82e65adf1f2a10
+A child’s drawing on the fridge moved slightly when no one was looking.,on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+A child’s drawing on the fridge moved slightly when no one was looking.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A child’s drawing on the fridge moved slightly when no one was looking.,fridge,"[6, 18, 9, 4, 7, 5]",f3a1318f4c6902009b620a5a0f7366e3
+A child’s drawing on the fridge moved slightly when no one was looking.,moved,"[13, 15, 22, 5, 4]",d4d206cf14a7af7d43b6a22618b5bdac
+A child’s drawing on the fridge moved slightly when no one was looking.,slightly,"[19, 12, 9, 7, 8, 20, 12, 25]",aacb876cab50cfd8a9c61151c2169e23
+A child’s drawing on the fridge moved slightly when no one was looking.,when,"[23, 8, 5, 14]",a054610ab1ce55f12ea9cfb23680be4c
+A child’s drawing on the fridge moved slightly when no one was looking.,no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+A child’s drawing on the fridge moved slightly when no one was looking.,one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+A child’s drawing on the fridge moved slightly when no one was looking.,was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+A child’s drawing on the fridge moved slightly when no one was looking.,looking.,"[12, 15, 15, 11, 9, 14, 7]",5ac49942d9aa7eb042a27f60ce0a1e57
+"The suitcase seemed to hum, vibrating faintly under the bed.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The suitcase seemed to hum, vibrating faintly under the bed.",suitcase,"[19, 21, 9, 20, 3, 1, 19, 5]",afdb26642426197d190edbb628ffeb87
+"The suitcase seemed to hum, vibrating faintly under the bed.",seemed,"[19, 5, 5, 13, 5, 4]",07f3b4e17b7916ca9b977130565c6a2a
+"The suitcase seemed to hum, vibrating faintly under the bed.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The suitcase seemed to hum, vibrating faintly under the bed.","hum,","[8, 21, 13]",feacc0d39e52b70371e7f5a8463c2856
+"The suitcase seemed to hum, vibrating faintly under the bed.",vibrating,"[22, 9, 2, 18, 1, 20, 9, 14, 7]",ba7b0da3c31ef9c391e267b6350df22d
+"The suitcase seemed to hum, vibrating faintly under the bed.",faintly,"[6, 1, 9, 14, 20, 12, 25]",8522eb6089b6c8937aa4c8c01709f96f
+"The suitcase seemed to hum, vibrating faintly under the bed.",under,"[21, 14, 4, 5, 18]",b92d49cff4f085f0e2f96862d927f3c1
+"The suitcase seemed to hum, vibrating faintly under the bed.",bed.,"[2, 5, 4]",0033ac867efac7aae7b2f9c70e06ce0a
+The leaves on the tree formed words when the wind blew.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The leaves on the tree formed words when the wind blew.,leaves,"[12, 5, 1, 22, 5, 19]",17189508e2046011e4554af1e19249b7
+The leaves on the tree formed words when the wind blew.,on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+The leaves on the tree formed words when the wind blew.,tree,"[20, 18, 5, 5]",42c8e6a3014c9297bf10d2d7df014d22
+The leaves on the tree formed words when the wind blew.,formed,"[6, 15, 18, 13, 5, 4]",1fffb9ce985900bcc185cec7420319b3
+The leaves on the tree formed words when the wind blew.,words,"[23, 15, 18, 4, 19]",45a4be70e0a7f2ed9a46d70c400876b6
+The leaves on the tree formed words when the wind blew.,when,"[23, 8, 5, 14]",a054610ab1ce55f12ea9cfb23680be4c
+The leaves on the tree formed words when the wind blew.,wind,"[23, 9, 14, 4]",c4a9bccd2509e105e9aec29e6d630333
+The leaves on the tree formed words when the wind blew.,blew.,"[2, 12, 5, 23]",9a8cf4a0a521dbc54118977e2ce878e3
+"A door appeared in the middle of the meadow, leading nowhere.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A door appeared in the middle of the meadow, leading nowhere.",door,"[4, 15, 15, 18]",23fd38666f3fb7f9b2d9ecd617723c06
+"A door appeared in the middle of the meadow, leading nowhere.",appeared,"[1, 16, 16, 5, 1, 18, 5, 4]",51c53edb34ab7c15ff7051c6242518a6
+"A door appeared in the middle of the meadow, leading nowhere.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"A door appeared in the middle of the meadow, leading nowhere.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A door appeared in the middle of the meadow, leading nowhere.",middle,"[13, 9, 4, 4, 12, 5]",503cbc5b201f47cfec44e1af91026dfd
+"A door appeared in the middle of the meadow, leading nowhere.",of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+"A door appeared in the middle of the meadow, leading nowhere.","meadow,","[13, 5, 1, 4, 15, 23]",5d8fff62984bef6d1838fb84d94638c2
+"A door appeared in the middle of the meadow, leading nowhere.",leading,"[12, 5, 1, 4, 9, 14, 7]",e16ab55ae7247c8b67108d0c7df6ef70
+"A door appeared in the middle of the meadow, leading nowhere.",nowhere.,"[14, 15, 23, 8, 5, 18, 5]",c5fd2697ed29ca26ddcaadb8813edb41
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",ice,"[9, 3, 5]",7a8cc1798fac1f038c2f1c02fa761be6
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",cream,"[3, 18, 5, 1, 13]",b496ade4109fd3fb9dae60f347197f26
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",truck,"[20, 18, 21, 3, 11]",896472c78d4fe50da0df167718545858
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",played,"[16, 12, 1, 25, 5, 4]",74b463d80dbc0b3bebe1e5c75d151857
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",hauntingly,"[8, 1, 21, 14, 20, 9, 14, 7, 12, 25]",d87771cd6ca85005f6b4fd5f0deb9218
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",familiar,"[6, 1, 13, 9, 12, 9, 1, 18]",eaecc39c70b29658bf430cce217c28f0
+"The ice cream truck played a hauntingly familiar tune, though it was winter.","tune,","[20, 21, 14, 5]",55f8f5c3a158fe1a263beba06b1bb7f6
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",was,"[23, 1, 19]",da041fee55980aa1852b6399a32e7231
+"The ice cream truck played a hauntingly familiar tune, though it was winter.",winter.,"[23, 9, 14, 20, 5, 18]",a3094c118acc5f93ffea034a69fa4a24
+"A feather drifted down from the sky, larger than any bird could have.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A feather drifted down from the sky, larger than any bird could have.",feather,"[6, 5, 1, 20, 8, 5, 18]",ef90cd7f0e1382dcfaccc2b878a92e29
+"A feather drifted down from the sky, larger than any bird could have.",drifted,"[4, 18, 9, 6, 20, 5, 4]",a182bfd1901079a47587631faf89ee53
+"A feather drifted down from the sky, larger than any bird could have.",down,"[4, 15, 23, 14]",307e090427e617496d267a14918ef14f
+"A feather drifted down from the sky, larger than any bird could have.",from,"[6, 18, 15, 13]",81754a8e62e084d16dcd892b83d10f15
+"A feather drifted down from the sky, larger than any bird could have.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A feather drifted down from the sky, larger than any bird could have.","sky,","[19, 11, 25]",37e1c18ce0ed8df9271c24ab85593e52
+"A feather drifted down from the sky, larger than any bird could have.",larger,"[12, 1, 18, 7, 5, 18]",7348da3e8498efc8e15ea20316872569
+"A feather drifted down from the sky, larger than any bird could have.",than,"[20, 8, 1, 14]",d45eb0995283a1037f1a83c89afa9a99
+"A feather drifted down from the sky, larger than any bird could have.",any,"[1, 14, 25]",4c5632e818037a2c28482bfa9ceb399b
+"A feather drifted down from the sky, larger than any bird could have.",bird,"[2, 9, 18, 4]",583fb4e0eee03bb86819abfa224da98f
+"A feather drifted down from the sky, larger than any bird could have.",could,"[3, 15, 21, 12, 4]",39d0ea64ee82d77361b29611295a30cd
+"A feather drifted down from the sky, larger than any bird could have.",have.,"[8, 1, 22, 5]",ed2d016832b65aee752a90c61b209676
+"The carousel spun backward, playing music no one recognized.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The carousel spun backward, playing music no one recognized.",carousel,"[3, 1, 18, 15, 21, 19, 5, 12]",c30300efa079e7f977246340e36c1149
+"The carousel spun backward, playing music no one recognized.",spun,"[19, 16, 21, 14]",19be4605e2c4b9e38157c363e64cc0e6
+"The carousel spun backward, playing music no one recognized.","backward,","[2, 1, 3, 11, 23, 1, 18, 4]",92713dbede7e54735d7cdc3ad9b11c5e
+"The carousel spun backward, playing music no one recognized.",playing,"[16, 12, 1, 25, 9, 14, 7]",cff51423250ef18d8fdd228bffabe1e5
+"The carousel spun backward, playing music no one recognized.",music,"[13, 21, 19, 9, 3]",e452721c82d6d179d85fcf08173cb137
+"The carousel spun backward, playing music no one recognized.",no,"[14, 15]",f2b1506c9626396ee4ae0a5bef759d52
+"The carousel spun backward, playing music no one recognized.",one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The carousel spun backward, playing music no one recognized.",recognized.,"[18, 5, 3, 15, 7, 14, 9, 26, 5, 4]",8a9c192fa22f2986f9f8faab0cf4f082
+"The soda can fizzed, and tiny fireworks burst from the top.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The soda can fizzed, and tiny fireworks burst from the top.",soda,"[19, 15, 4, 1]",6dd6ccf5d0f8fb7f123a469e05b5a4d3
+"The soda can fizzed, and tiny fireworks burst from the top.",can,"[3, 1, 14]",1b4db93449530bf5c88f21a11a8211f9
+"The soda can fizzed, and tiny fireworks burst from the top.","fizzed,","[6, 9, 26, 26, 5, 4]",e453a00c84c301c9f89bca04af65cc4c
+"The soda can fizzed, and tiny fireworks burst from the top.",and,"[1, 14, 4]",941895025925d952274589a70ecc888a
+"The soda can fizzed, and tiny fireworks burst from the top.",tiny,"[20, 9, 14, 25]",0e037b46194a07ef58b2509ea36c7117
+"The soda can fizzed, and tiny fireworks burst from the top.",fireworks,"[6, 9, 18, 5, 23, 15, 18, 11, 19]",520d5e9dcfb7ac0d7d8369059ff297c7
+"The soda can fizzed, and tiny fireworks burst from the top.",burst,"[2, 21, 18, 19, 20]",60b44c4e501d99e5dbff2a4eac76f087
+"The soda can fizzed, and tiny fireworks burst from the top.",from,"[6, 18, 15, 13]",81754a8e62e084d16dcd892b83d10f15
+"The soda can fizzed, and tiny fireworks burst from the top.",top.,"[20, 15, 16]",c507ac98e7a71f42a0aba2dad581362a
+"A figure appeared in the fog, carrying a lantern that glowed green.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A figure appeared in the fog, carrying a lantern that glowed green.",figure,"[6, 9, 7, 21, 18, 5]",7f6a1c4af8a8ca23eb3a47433b36ce44
+"A figure appeared in the fog, carrying a lantern that glowed green.",appeared,"[1, 16, 16, 5, 1, 18, 5, 4]",51c53edb34ab7c15ff7051c6242518a6
+"A figure appeared in the fog, carrying a lantern that glowed green.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"A figure appeared in the fog, carrying a lantern that glowed green.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A figure appeared in the fog, carrying a lantern that glowed green.","fog,","[6, 15, 7]",8ef72c4628749be60957327a75436306
+"A figure appeared in the fog, carrying a lantern that glowed green.",carrying,"[3, 1, 18, 18, 25, 9, 14, 7]",8dc90531bc717a34ca2befb88b148eca
+"A figure appeared in the fog, carrying a lantern that glowed green.",lantern,"[12, 1, 14, 20, 5, 18, 14]",ea7a1795d86912b6ad29f0c9c650cf93
+"A figure appeared in the fog, carrying a lantern that glowed green.",that,"[20, 8, 1, 20]",50e7911357fad58e8f3a30165ab9d112
+"A figure appeared in the fog, carrying a lantern that glowed green.",glowed,"[7, 12, 15, 23, 5, 4]",35d9f627972ac0e2197f26c76595d885
+"A figure appeared in the fog, carrying a lantern that glowed green.",green.,"[7, 18, 5, 5, 14]",6238a0fd2108228c77b63d240f25e475
+The notebook wrote its own story while the student slept.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The notebook wrote its own story while the student slept.,notebook,"[14, 15, 20, 5, 2, 15, 15, 11]",717ac0e92637d97b3b792f310165053c
+The notebook wrote its own story while the student slept.,wrote,"[23, 18, 15, 20, 5]",15a5d0e94e3228f2c4592da4b091f1bc
+The notebook wrote its own story while the student slept.,its,"[9, 20, 19]",52d9b0c30aad1c0331dbc44bb37d3b97
+The notebook wrote its own story while the student slept.,own,"[15, 23, 14]",ad6c0892099ccfe111dd41881bf56e25
+The notebook wrote its own story while the student slept.,story,"[19, 20, 15, 18, 25]",5d6f40b799fbd0b96942985c62191ade
+The notebook wrote its own story while the student slept.,while,"[23, 8, 9, 12, 5]",9c06f25695de6f9c6c7978affb7c788a
+The notebook wrote its own story while the student slept.,student,"[19, 20, 21, 4, 5, 14, 20]",9a0c7a6e4812aca9880ff8a74157e300
+The notebook wrote its own story while the student slept.,slept.,"[19, 12, 5, 16, 20]",0962a3d1326c1c166d10b3cef993b814
+"The stars began to fall, one by one, into the lake below.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"The stars began to fall, one by one, into the lake below.",stars,"[19, 20, 1, 18, 19]",b0e7d1bee03749e5ae84a1cd8b78b2bb
+"The stars began to fall, one by one, into the lake below.",began,"[2, 5, 7, 1, 14]",e33d69106fb1a16024e1afa2f0cf8ffb
+"The stars began to fall, one by one, into the lake below.",to,"[20, 15]",c270e031ca75d07a606c0443375f5848
+"The stars began to fall, one by one, into the lake below.","fall,","[6, 1, 12, 12]",163223de9ae0669eadc53d24f7aad563
+"The stars began to fall, one by one, into the lake below.",one,"[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The stars began to fall, one by one, into the lake below.",by,"[2, 25]",62339d87ddc25cfb2991dc1d6d294c0f
+"The stars began to fall, one by one, into the lake below.","one,","[15, 14, 5]",bb779d51c9d6afc7bffaa6eafe3a790e
+"The stars began to fall, one by one, into the lake below.",into,"[9, 14, 20, 15]",a6a358a07ea01f3446d29f1c16408087
+"The stars began to fall, one by one, into the lake below.",lake,"[12, 1, 11, 5]",d0094ca52ba79b9fdae6720fa8e67c26
+"The stars began to fall, one by one, into the lake below.",below.,"[2, 5, 12, 15, 23]",f23d8fc343e23375f3484d63100d5296
+A clock tower rang out a melody instead of the usual chime.,a,[1],c4ca4238a0b923820dcc509a6f75849b
+A clock tower rang out a melody instead of the usual chime.,clock,"[3, 12, 15, 3, 11]",22045d8211a3467ae2f4a9a171dbb56b
+A clock tower rang out a melody instead of the usual chime.,tower,"[20, 15, 23, 5, 18]",667938fa74e4b231ac15a936224eeda7
+A clock tower rang out a melody instead of the usual chime.,rang,"[18, 1, 14, 7]",fc98de5f726b5e51dcd6cbbe81e4c1d8
+A clock tower rang out a melody instead of the usual chime.,out,"[15, 21, 20]",158b9a5e18bef6170a77a19b760b041f
+A clock tower rang out a melody instead of the usual chime.,melody,"[13, 5, 12, 15, 4, 25]",e050088878a29a7ef683d9c0aca6c7e9
+A clock tower rang out a melody instead of the usual chime.,instead,"[9, 14, 19, 20, 5, 1, 4]",5391b379f6ebd0683e0c560b2c8677f3
+A clock tower rang out a melody instead of the usual chime.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+A clock tower rang out a melody instead of the usual chime.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+A clock tower rang out a melody instead of the usual chime.,usual,"[21, 19, 21, 1, 12]",386f161ff4ceb798a3538966aa8e3f16
+A clock tower rang out a melody instead of the usual chime.,chime.,"[3, 8, 9, 13, 5]",f9f21ce9d0acabc6a52b07fd85a43130
+The sand on the beach shimmered as though it were made of diamonds.,the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+The sand on the beach shimmered as though it were made of diamonds.,sand,"[19, 1, 14, 4]",8566d179cbcce136293c87f7e43b062d
+The sand on the beach shimmered as though it were made of diamonds.,on,"[15, 14]",5b067beb3fb3130e2800979af7769d5f
+The sand on the beach shimmered as though it were made of diamonds.,beach,"[2, 5, 1, 3, 8]",dacc7f5d99358861eb7c4a2e8ee3add1
+The sand on the beach shimmered as though it were made of diamonds.,shimmered,"[19, 8, 9, 13, 13, 5, 18, 5, 4]",74814526e60467c9ddec8d0179a8722e
+The sand on the beach shimmered as though it were made of diamonds.,as,"[1, 19]",b6c966209aefddbbb416592d199fe7b6
+The sand on the beach shimmered as though it were made of diamonds.,though,"[20, 8, 15, 21, 7, 8]",a7e780769cb4fcdf3624bab1dbee473a
+The sand on the beach shimmered as though it were made of diamonds.,it,"[9, 20]",d83805ac2f2452ebf3f17a76c89571de
+The sand on the beach shimmered as though it were made of diamonds.,were,"[23, 5, 18, 5]",dfd5b9ae4f49fa67269cae7a5da62467
+The sand on the beach shimmered as though it were made of diamonds.,made,"[13, 1, 4, 5]",cc5c13b6d76f012d43c0a25db23b4208
+The sand on the beach shimmered as though it were made of diamonds.,of,"[15, 6]",bb548305d15c3a2a16c310e51a1da878
+The sand on the beach shimmered as though it were made of diamonds.,diamonds.,"[4, 9, 1, 13, 15, 14, 4, 19]",2d96bf00965bedb2fe4d85e159b6603f
+"A single flower bloomed in the snow, glowing softly in the twilight.",a,[1],c4ca4238a0b923820dcc509a6f75849b
+"A single flower bloomed in the snow, glowing softly in the twilight.",single,"[19, 9, 14, 7, 12, 5]",3eed3d20242dace842fb4afda475dfeb
+"A single flower bloomed in the snow, glowing softly in the twilight.",flower,"[6, 12, 15, 23, 5, 18]",d14964e5deeff1e503f5ebea250e6984
+"A single flower bloomed in the snow, glowing softly in the twilight.",bloomed,"[2, 12, 15, 15, 13, 5, 4]",24278a1d4b9f51225122634f1c78df9f
+"A single flower bloomed in the snow, glowing softly in the twilight.",in,"[9, 14]",dab152e2c53e83fac204643b2f65aeba
+"A single flower bloomed in the snow, glowing softly in the twilight.",the,"[20, 8, 5]",77c61de7c383ab6db7be8d689bfbe7c7
+"A single flower bloomed in the snow, glowing softly in the twilight.","snow,","[19, 14, 15, 23]",5cb5738791c98b2b8c0e229e289d3fd9
+"A single flower bloomed in the snow, glowing softly in the twilight.",glowing,"[7, 12, 15, 23, 9, 14, 7]",f89f64d9208201ec14ccf134907f377a
+"A single flower bloomed in the snow, glowing softly in the twilight.",softly,"[19, 15, 6, 20, 12, 25]",0d1885f3bc34fc25264e8b40579e735a
+"A single flower bloomed in the snow, glowing softly in the twilight.",twilight.,"[20, 23, 9, 12, 9, 7, 8, 20]",cc538476b68ca8d643983e8fc0f39d7d
